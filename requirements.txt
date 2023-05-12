@@ -1,2 +1,5 @@
 asrtoolkit
 requests
+PIL
+cv2
+pytesseract
