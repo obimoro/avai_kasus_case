@@ -1,5 +1,4 @@
 asrtoolkit
 requests
-PIL
-cv2
-pytesseract
+cv2 - OpenCV (Open Source Computer Vision Library) https://opencv.org/
+pytesseract - Tesseract OCR https://nanonets.com/blog/ocr-with-tesseract/
